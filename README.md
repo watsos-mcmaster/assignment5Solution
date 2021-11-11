@@ -1,11 +1,12 @@
 # Assignment #5 Solution
 
 ## Problem 1a) and 1b)
-15 points across 3 types of test:
+### 15 points across 3 types of test:
 * Base case test - did you test the initial state of your traffic lights?
 * Dynamic test - did you test changing one of your lights and making sure that triggers a change for the other light?
 * Edge case test - did you try to 'trick' the system into changing the value of a light and make sure it didn't work?
-Each of the three tests is worth 5 points:
+
+### Each of the three tests is worth 5 points:
 * 1 point for a good precondition
 * 1 point for a good postcondition
 * Up to 2 points for execution - does what you're doing make sense?
