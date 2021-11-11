@@ -53,8 +53,8 @@ def test_1c_light_stays_red_when_traffic_remains():
 
     # postcondition
     assert main_light.colour() == "red", "Main street colour should stay red"
-
-def test_1c_light_stays_red_when_traffic_remains():
+    
+def test_1c_light_turns_green_when_traffic_has_passed():
     main_light = MainTrafficLight()
     side_light = SideStreetTrafficLight()
     side_light.set_traffic_present(True)
@@ -69,3 +69,4 @@ def test_1c_light_stays_red_when_traffic_remains():
 
     # postcondition
     assert main_light.colour() == "green", "Main street colour should change to green"
+
