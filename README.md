@@ -13,4 +13,4 @@
 * 1 point for overall readability of the test
 
 ## Problem 1c)
-Should have at least 3 tests again. In this case there should be at least one test where the light changes after 90s, one test where the light changes back after 30s and at least one test where is expected not to change. The three tests will be graded the same way as described above.
+Should have at least 3 tests again. In this case there should be at least one test where the light changes after 90s, one test where the light changes back after 30s and at least one test where the light is expected not to change. The three tests will be graded the same way as described above.
