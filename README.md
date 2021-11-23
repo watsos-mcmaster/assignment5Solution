@@ -7,9 +7,8 @@
 * Exception test - did you try to 'trick' the system into changing the value of a light and make sure it didn't work?
 
 ### Each of the three tests is worth 5 points:
-* 1 point for a good precondition
 * 1 point for a good postcondition
-* Up to 2 points for execution - does what you're doing make sense?
+* Up to 3 points for execution - does what you're doing make sense?
 * 1 point for overall readability of the test
 
 ## Problem 1c)
